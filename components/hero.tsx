@@ -56,7 +56,7 @@ export function Hero() {
           <div className="overflow-hidden rounded-2xl border border-border shadow-sm">
             <Image
               src="/images/hero-technician.png"
-              alt="Technicien professionnel de 3D Dératisation inspectant une cuisine résidentielle"
+              alt="Technicien professionnel de NOX 3D inspectant une cuisine résidentielle"
               width={720}
               height={720}
               priority

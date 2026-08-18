@@ -1,15 +1,15 @@
-// Central configuration for 3D Dératisation.
+// Central configuration for NOX 3D.
 // Update these placeholders with the real business information.
 
 export const siteConfig = {
-  name: "3D Dératisation",
+  name: "NOX 3D",
   // Displayed phone number (human readable)
   phoneDisplay: "01 23 45 67 89",
   // Phone number in international format for tel: links
   phoneHref: "+33123456789",
   // WhatsApp number in international format WITHOUT + or spaces
   whatsappNumber: "33123456789",
-  email: "contact@3d-deratisation.fr",
+  email: "contact@nox3d.fr",
   // Main service area
   mainCity: "[VILLE]",
   department: "[DÉPARTEMENT]",
@@ -18,7 +18,7 @@ export const siteConfig = {
   rating: "4,9",
   reviewCount: "XXX",
   // Public site URL (used for structured data / metadata)
-  url: "https://www.3d-deratisation.fr",
+  url: "https://www.nox3d.fr",
 } as const
 
 // Build a WhatsApp click-to-chat URL with a pre-filled message.

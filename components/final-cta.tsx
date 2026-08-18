@@ -9,7 +9,7 @@ export function FinalCta() {
           Vous avez un problème de nuisibles&nbsp;?
         </h2>
         <p className="text-pretty text-lg leading-relaxed text-primary-foreground/85">
-          Contactez 3D Dératisation et expliquez-nous votre situation.
+          Contactez NOX 3D et expliquez-nous votre situation.
         </p>
         <div className="flex w-full flex-col justify-center gap-3 sm:flex-row">
           <CallButton

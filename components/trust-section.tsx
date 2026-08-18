@@ -23,7 +23,7 @@ export function TrustSection() {
   return (
     <section className="mx-auto max-w-6xl px-4 py-16 md:py-20">
       <h2 className="text-balance text-center text-3xl font-bold tracking-tight text-foreground md:text-4xl">
-        Pourquoi faire appel à 3D Dératisation&nbsp;?
+        Pourquoi faire appel à NOX 3D&nbsp;?
       </h2>
 
       <div className="mx-auto mt-10 grid max-w-4xl gap-5 sm:grid-cols-2">

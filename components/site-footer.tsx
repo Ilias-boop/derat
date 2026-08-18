@@ -9,10 +9,10 @@ export function SiteFooter() {
         <div className="grid gap-8 md:grid-cols-3">
           <div>
             <div className="flex items-center gap-2">
-              <span className="flex size-9 items-center justify-center rounded-lg bg-primary font-bold text-primary-foreground">
-                3D
+              <span className="flex size-9 items-center justify-center rounded-lg bg-primary text-sm font-bold text-primary-foreground">
+                NOX
               </span>
-              <span className="text-lg font-bold text-foreground">Dératisation</span>
+              <span className="text-lg font-bold text-foreground">3D</span>
             </div>
             <p className="mt-3 max-w-xs text-pretty leading-relaxed text-muted-foreground">
               Dératisation, traitement des souris et des cafards pour les particuliers de votre secteur.

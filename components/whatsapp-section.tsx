@@ -28,11 +28,11 @@ export function WhatsappSection() {
         {/* Mock WhatsApp conversation */}
         <div className="rounded-2xl border border-border bg-secondary/60 p-4">
           <div className="mb-3 flex items-center gap-3 border-b border-border pb-3">
-            <span className="flex size-10 items-center justify-center rounded-full bg-primary font-bold text-primary-foreground">
-              3D
+            <span className="flex size-10 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground">
+              NOX
             </span>
             <div>
-              <p className="text-sm font-bold text-foreground">3D Dératisation</p>
+              <p className="text-sm font-bold text-foreground">NOX 3D</p>
               <p className="text-xs text-whatsapp-dark">en ligne</p>
             </div>
           </div>
