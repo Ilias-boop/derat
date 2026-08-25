@@ -4,11 +4,11 @@
 export const siteConfig = {
   name: "NOX 3D",
   // Displayed phone number (human readable)
-  phoneDisplay: "01 23 45 67 89",
+  phoneDisplay: "01 71 62 43 65",
   // Phone number in international format for tel: links
-  phoneHref: "+33123456789",
+  phoneHref: "+33171624365",
   // WhatsApp number in international format WITHOUT + or spaces
-  whatsappNumber: "33123456789",
+  whatsappNumber: "33171624365",
   email: "contact@nox3d.fr",
   // Main service area
   mainCity: "[VILLE]",
