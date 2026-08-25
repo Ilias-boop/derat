@@ -65,7 +65,7 @@ export function ReviewsSection() {
 
         <div className="mt-10 flex justify-center">
           <a
-            href="https://www.google.com/maps"
+            href="https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0Xo8QVXFvgcRbLp3EH7bCQ4"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 font-semibold text-primary hover:underline"
