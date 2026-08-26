@@ -4,28 +4,28 @@ import { siteConfig } from "@/lib/site-config"
 // Placeholder reviews — replace with real Google reviews before launch.
 const reviews = [
   {
-    name: "Julien M.",
-    text: "Intervention rapide après avoir envoyé une photo sur WhatsApp. Technicien à l'écoute et professionnel.",
+    name: "Angelique T.",
+    text: "Très satisfaite de l’intervention. Prise de rendez-vous rapide, diagnostic sérieux et traitement plus qu’efficace. Mr compétent, et très professionnelle. Service de qualité, je recommande !!!",
   },
   {
-    name: "Sophie L.",
-    text: "Problème de souris réglé efficacement. On m'a bien expliqué l'origine et les mesures à prendre.",
+    name: "Yanis S.",
+    text: "Professionnel réactif. Bonne expérience",
   },
   {
-    name: "Karim B.",
-    text: "Très réactifs et de bon conseil. Je recommande pour un problème de nuisibles à la maison.",
+    name: "Jalal Z.",
+    text: "Intervention rapide, efficace avec un prix très raisonnable.",
   },
   {
-    name: "Élodie R.",
-    text: "Prise de contact simple et diagnostic clair. Intervention soignée et discrète.",
+    name: "Mel G.",
+    text: "Intervention très rapide et efficace aujourd’hui à mon domicile. Travail soigné, sérieux et rassurant. Je recommande vivement cette entreprise de dératisation pour sa réactivité et la qualité de son service. Merci encore !",
   },
   {
-    name: "Thomas P.",
-    text: "Bon suivi après le passage du technicien. Rassurant de pouvoir poser des questions facilement.",
+    name: "Armand P.",
+    text: "Parfait. Merci.",
   },
   {
-    name: "Nadia F.",
-    text: "Cafards traités dans la cuisine. Explications honnêtes, sans surpromesse. Merci.",
+    name: "Gitane S.",
+    text: "Intervention rapide et efficace avec le sourire. Je recommande.",
   },
 ]
 
