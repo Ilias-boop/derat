@@ -8,16 +8,16 @@ const reviews = [
     text: "Très satisfaite de l’intervention. Prise de rendez-vous rapide, diagnostic sérieux et traitement plus qu’efficace. Mr compétent, et très professionnelle. Service de qualité, je recommande !!!",
   },
   {
-    name: "Yanis S.",
-    text: "Professionnel réactif. Bonne expérience",
+    name: "Mel G.",
+    text: "Intervention très rapide et efficace aujourd’hui à mon domicile. Travail soigné, sérieux et rassurant. Je recommande vivement cette entreprise de dératisation pour sa réactivité et la qualité de son service. Merci encore !",
   },
   {
     name: "Jalal Z.",
     text: "Intervention rapide, efficace avec un prix très raisonnable.",
   },
   {
-    name: "Mel G.",
-    text: "Intervention très rapide et efficace aujourd’hui à mon domicile. Travail soigné, sérieux et rassurant. Je recommande vivement cette entreprise de dératisation pour sa réactivité et la qualité de son service. Merci encore !",
+    name: "Yanis ",
+    text: "Super",
   },
   {
     name: "Armand P.",
