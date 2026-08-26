@@ -3,6 +3,14 @@ import { siteConfig, waMessages } from "@/lib/site-config"
 import { WhatsAppButton } from "@/components/cta-buttons"
 
 export function ServiceAreaSection() {
+  // Liste des départements d'intervention
+  const departments = [
+    "Seine-et-Marne (77)",
+    "Seine-Saint-Denis (93)",
+    "Val-de-Marne (94)",
+    "Essonne (91)"
+  ]
+
   return (
     <section id="zone" className="border-y border-border bg-secondary/40">
       <div className="mx-auto max-w-4xl px-4 py-16 text-center md:py-20">
@@ -15,11 +23,24 @@ export function ServiceAreaSection() {
           {siteConfig.mainCity} · {siteConfig.department}
         </div>
 
-        <p className="mx-auto mt-8 max-w-xl text-pretty leading-relaxed text-muted-foreground">
-          Intervention en Seine-et-Marne (77), ainsi qu’en Seine-Saint-Denis (93), Val-de-Marne (94) et Essonne (91).
+        {/* Titre introduit pour la clarté */}
+        <p className="mt-10 text-sm font-semibold uppercase tracking-wider text-muted-foreground">
+          Zone d'intervention
         </p>
 
-        <div className="mt-6 flex justify-center">
+        {/* Liste des badges d'intervention */}
+        <ul className="mt-4 flex flex-wrap justify-center gap-3">
+          {departments.map((dept) => (
+            <li
+              key={dept}
+              className="rounded-full border border-border bg-card px-4 py-2 text-sm font-medium text-foreground shadow-sm"
+            >
+              {dept}
+            </li>
+          ))}
+        </ul>
+
+        <div className="mt-10 flex justify-center">
           <WhatsAppButton location="service_area" message={waMessages.general} size="lg" label="Nous contacter" />
         </div>
       </div>
