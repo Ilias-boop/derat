@@ -14,7 +14,7 @@ export function Hero() {
           </div>
 
           <h1 className="text-balance text-4xl font-extrabold leading-tight tracking-tight text-foreground md:text-5xl">
-            Rats ou souris chez vous&nbsp;?
+            Votre expert en lutte anti-parasitaire&nbsp;
           </h1>
 
           <p className="text-pretty text-lg leading-relaxed text-muted-foreground">
