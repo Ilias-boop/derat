@@ -51,7 +51,7 @@ export function Hero() {
             Vous avez un doute ? Envoyez-nous simplement une photo de ce que vous avez trouvé.
           </p>
 
-          <p className="text-center text-sm text-foreground">
+          <p className="text-center text-sm leading-relaxed text-muted-foreground">
           Spécialistes agréés Certibiocide
           </p>
           </div>
