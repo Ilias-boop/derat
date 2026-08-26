@@ -15,7 +15,7 @@ export function SiteFooter() {
               <span className="text-lg font-bold text-foreground">3D</span>
             </div>
             <p className="mt-3 max-w-xs text-pretty leading-relaxed text-muted-foreground">
-              Dératisation, traitement des souris et des cafards pour les particuliers de votre secteur.
+              NOX 3D : votre expert anti-nuisibles. Dératisation, désinsectisation et désinfection rapides, efficaces et au meilleur prix. 
             </p>
           </div>
 
