@@ -50,7 +50,11 @@ export function Hero() {
           <p className="text-sm leading-relaxed text-muted-foreground">
             Vous avez un doute ? Envoyez-nous simplement une photo de ce que vous avez trouvé.
           </p>
-        </div>
+
+          <p className="text-center text-sm text-foreground">
+          Spécialistes agréés Certibiocide
+          </p>
+          </div>
 
         <div className="relative">
           <div className="overflow-hidden rounded-2xl border border-border shadow-sm">
