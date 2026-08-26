@@ -10,7 +10,7 @@ export function Hero() {
         <div className="flex flex-col gap-6">
           <div className="inline-flex w-fit items-center gap-2 rounded-full border border-border bg-background px-3 py-1 text-sm font-medium text-muted-foreground">
             <span className="size-2 rounded-full bg-whatsapp" aria-hidden="true" />
-            Intervention locale à {siteConfig.mainCity}
+            Intervention locale en Île-de-France
           </div>
 
           <h1 className="text-balance text-4xl font-extrabold leading-tight tracking-tight text-foreground md:text-5xl">

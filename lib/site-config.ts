@@ -15,8 +15,8 @@ export const siteConfig = {
   department: "Seine-et-Marne (77)",
   // Nearby cities (placeholders — replace with real communes)
   nearbyCities: ["[VILLE 1]", "[VILLE 2]", "[VILLE 3]", "[VILLE 4]", "[VILLE 5]"],
-  rating: "4,9",
-  reviewCount: "XXX",
+  rating: "5",
+  reviewCount: "250",
   // Public site URL (used for structured data / metadata)
   url: "https://www.nox3d.fr",
 } as const
