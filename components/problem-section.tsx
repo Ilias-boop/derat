@@ -27,19 +27,19 @@ const problems = [
     emoji: "🛏️",
     title: "Punaises de lit",
     text: "Piqûres au réveil, petits points noirs, traces sur le matelas ou le linge.",
-    message: waMessages.cockroaches,
+    message: waMessages.punaises,
   },
   {
     emoji: "🐝",
     title: "Nids de guêpes / frelons",
     text: "Nid visible, nombreuses guêpes autour de la maison, terrasse ou toiture.",
-    message: waMessages.cockroaches,
+    message: waMessages.guepes,
   },
   {
     emoji: "🐜",
     title: "Désinsectisation",
     text: "Fourmis, puces, mites ou autres insectes présents dans votre logement.",
-    message: waMessages.cockroaches,
+    message: waMessages.desinsectisation,
   },
 ]
 
