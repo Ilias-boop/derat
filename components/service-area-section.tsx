@@ -7,7 +7,7 @@ export function ServiceAreaSection() {
     <section id="zone" className="border-y border-border bg-secondary/40">
       <div className="mx-auto max-w-4xl px-4 py-16 text-center md:py-20">
         <h2 className="text-balance text-3xl font-bold tracking-tight text-foreground md:text-4xl">
-          Nous intervenons dans votre secteur
+          Nous sommes basés à
         </h2>
 
         <div className="mt-8 inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/10 px-5 py-2.5 text-lg font-bold text-primary">
@@ -27,7 +27,7 @@ export function ServiceAreaSection() {
         </ul>
 
         <p className="mx-auto mt-8 max-w-xl text-pretty leading-relaxed text-muted-foreground">
-          Intervention prioritaire en Seine-et-Marne (77), ainsi qu’en Seine-Saint-Denis (93), Val-de-Marne (94) et Essonne (91).
+          Intervention en Seine-et-Marne (77), ainsi qu’en Seine-Saint-Denis (93), Val-de-Marne (94) et Essonne (91).
         </p>
 
         <div className="mt-6 flex justify-center">

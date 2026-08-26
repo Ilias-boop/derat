@@ -11,8 +11,8 @@ export const siteConfig = {
   whatsappNumber: "33171624365",
   email: "contact@nox3d.fr",
   // Main service area
-  mainCity: "[VILLE]",
-  department: "[DÉPARTEMENT]",
+  mainCity: "Lognes",
+  department: "Seine-et-Marne (77)",
   // Nearby cities (placeholders — replace with real communes)
   nearbyCities: ["[VILLE 1]", "[VILLE 2]", "[VILLE 3]", "[VILLE 4]", "[VILLE 5]"],
   rating: "4,9",
