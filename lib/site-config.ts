@@ -33,6 +33,9 @@ export const waMessages = {
   rats: "Bonjour, je pense avoir des rats chez moi. Pouvez-vous m'aider ?",
   mice: "Bonjour, je pense avoir des souris chez moi. Pouvez-vous m'aider ?",
   cockroaches: "Bonjour, je pense avoir des cafards chez moi. Pouvez-vous m'aider ?",
+  punaises: "Bonjour, je pense avoir des punaises de lit chez moi. Pouvez-vous m'aider ?",
+  guepes: "Bonjour, je pense avoir des guêpes/frelons chez moi. Pouvez-vous m'aider ?",
+  desinsectisation: "Bonjour, j'aimerais des informations sur une intervention de désinsectisation.",
   technician: "Bonjour, j'aimerais parler à un technicien de ma situation.",
   appointment: "Bonjour, j'aimerais prendre rendez-vous pour un diagnostic.",
 } as const
