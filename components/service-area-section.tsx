@@ -27,7 +27,7 @@ export function ServiceAreaSection() {
         </ul>
 
         <p className="mx-auto mt-8 max-w-xl text-pretty leading-relaxed text-muted-foreground">
-          Vous êtes à proximité et votre commune n&apos;apparaît pas ? Contactez-nous.
+          Intervention prioritaire en Seine-et-Marne (77), ainsi qu’en Seine-Saint-Denis (93), Val-de-Marne (94) et Essonne (91).
         </p>
 
         <div className="mt-6 flex justify-center">
