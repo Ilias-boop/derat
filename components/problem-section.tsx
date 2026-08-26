@@ -29,6 +29,18 @@ const problems = [
     text: "Cafards, blattes ou traces dans la cuisine et les pièces humides.",
     message: waMessages.cockroaches,
   },
+  {
+    emoji: "🪳",
+    title: "Cafards",
+    text: "Cafards, blattes ou traces dans la cuisine et les pièces humides.",
+    message: waMessages.cockroaches,
+  },
+  {
+    emoji: "🪳",
+    title: "Cafards",
+    text: "Cafards, blattes ou traces dans la cuisine et les pièces humides.",
+    message: waMessages.cockroaches,
+  },
 ]
 
 export function ProblemSection() {
