@@ -8,7 +8,7 @@ export const siteConfig = {
   // Phone number in international format for tel: links
   phoneHref: "+33171624365",
   // WhatsApp number in international format WITHOUT + or spaces
-  whatsappNumber: "33171624365",
+  whatsappNumber: "33760857904",
   email: "contact@nox3d.fr",
   // Main service area
   mainCity: "Lognes",
