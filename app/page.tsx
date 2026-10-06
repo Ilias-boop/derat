@@ -3,7 +3,6 @@ import { Hero } from "@/components/hero"
 import { ProblemSection } from "@/components/problem-section"
 import { ProcessSection } from "@/components/process-section"
 import { WhatsappSection } from "@/components/whatsapp-section"
-import { ServicesSection } from "@/components/services-section"
 import { TrustSection } from "@/components/trust-section"
 import { ReviewsSection } from "@/components/reviews-section"
 import { InterventionSection } from "@/components/intervention-section"
@@ -24,7 +23,6 @@ export default function Page() {
         <ProblemSection />
         <ProcessSection />
         <WhatsappSection />
-        <ServicesSection />
         <TrustSection />
         <ReviewsSection />
         <InterventionSection />
